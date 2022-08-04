@@ -5,7 +5,7 @@
     <Assembly>SQLDoors.dll</Assembly>
     <AddInId>036E1B77-2293-4E54-B372-7118DA3480C0</AddInId>
     <FullClassName>SQLDoors.Application</FullClassName>
-    <VendorId>Musa Mthimunye</VendorId>
-    <VendorDescription>https://github.com/MjMthimunye</VendorDescription>
+    <VendorId>Add vendor id</VendorId>
+    <VendorDescription>Add vendor description</VendorDescription>
   </AddIn>
 </RevitAddIns>
